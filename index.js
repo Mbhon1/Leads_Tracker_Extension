@@ -18,9 +18,6 @@ tabBtn.addEventListener("click", function(){
     render(myLeads)
   })
 })
-// const tabs = [
-  // {url:"https://www.linkedin.com/in/per-harald-borgen/"}
-// ]
 
 function render(leads){
   let listItems = ""
